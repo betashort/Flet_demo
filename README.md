@@ -51,3 +51,9 @@ uv pip install jupyter ipykernel
 ```sh
 uv pip isntall flet flet-desktop
 ```
+
+## 実行
+
+```sh
+uv run xxx.py
+```
